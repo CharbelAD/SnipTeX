@@ -1,0 +1,11 @@
+<snippet>
+    <content>
+\\begin{gather${1:ed}}
+    ${0:${VISUAL}}
+\\end{gather$1}
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gat</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex</scope>
+</snippet>

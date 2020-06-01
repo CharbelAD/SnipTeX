@@ -1,0 +1,11 @@
+<snippet>
+    <content>
+\\begin{${1:tabular}}{${2:c}}
+    ${0:${VISUAL}}
+\\end{$1}
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tab</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.tex</scope>
+</snippet>
