@@ -1,11 +1,9 @@
 <snippet>
-    <content>
-\\begin{${1:env}}
+    <content><![CDATA[
+\begin{${1:env}}
     ${0:${VISUAL}}
-\\end{$1}
+\end{$1}]]>
 </content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>begin</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.tex</scope>
 </snippet>
