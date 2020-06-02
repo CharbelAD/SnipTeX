@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        \newcommand{\${1:cmd}}[${2:opt}]{${3:realcmd}} ${0}
+    </content>
+    <tabTrigger>trigger</tabTrigger>
+    <scope>text.tex</scope>
+    <description>Create a new command</description>
+</snippet>

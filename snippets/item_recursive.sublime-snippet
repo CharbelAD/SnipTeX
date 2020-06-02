@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\\item ${1}
+${0:]i}]]>
+    </content>
+    <tabTrigger>]i</tabTrigger>
+    <scope>text.tex</scope>
+    <description>endless new item</description>
+</snippet>

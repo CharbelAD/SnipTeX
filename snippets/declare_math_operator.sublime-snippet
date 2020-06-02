@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\DeclareMathOperator{${1}}{${2}} ${0}]]>
+</content>
+    <tabTrigger>dmo</tabTrigger>
+    <scope>text.tex</scope>
+</snippet>
