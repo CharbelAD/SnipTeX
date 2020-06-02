@@ -1,11 +1,10 @@
 <snippet>
     <content>
 \\begin[${1:author}]{${2:thm}}
-    ${0:${VISUAL}}
+    ${0}
 \\end{$2}
 </content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>thm</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.tex</scope>
+    <description>thm (or arbitrary) environment with optional argument</description>
 </snippet>
