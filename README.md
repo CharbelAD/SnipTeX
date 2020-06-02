@@ -10,7 +10,4 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 2. Place the file in the Sublime Text 3 packages directory then restart Sublime:
   * On Windows: ```C:\Users\{user}\AppData\Roaming\Sublime Text 3\Packages```
   * On Linux: ```~/.config/sublime-text-3/Packages```
-
-
-## If you'd like to donate
-Do so to your favorite charity, or really any charity.
+  
