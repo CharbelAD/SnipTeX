@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\begin{cases}
+	${1:equation}, &\text{ if }${2:case}\\
+	${0}
+\end{cases}]]>
+	</content>
+	<tabTrigger>cas</tabTrigger>
+	<scope>text.tex</scope>
+	<description>cases environment</description>
+</snippet>
