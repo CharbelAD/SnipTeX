@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-    \\begin{equation}
-        ${0}
-    \\end{equation}
+\begin{equation}
+	${0}
+\end{equation}
 ]]></content>
     <tabTrigger>eq</tabTrigger>
     <scope>text.tex</scope>

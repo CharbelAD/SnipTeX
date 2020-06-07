@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-    \\begin{description}
-        \\item[${1}] ${0}
-    \\end{description}
+\begin{description}
+	\item[${1}] ${0}
+\end{description}
 ]]></content>
     <tabTrigger>desc</tabTrigger>
     <scope>text.tex</scope>

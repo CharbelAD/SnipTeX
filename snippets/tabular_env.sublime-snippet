@@ -1,8 +1,8 @@
 <snippet>
-    <content>
+    <content><![CDATA[
 \begin{${1:tabular}}{${2:c}}
-    ${0:${VISUAL}}
-\end{$1}
+	${0:${VISUAL}}
+\end{$1}]]>
 </content>
     <tabTrigger>tab</tabTrigger>
     <scope>text.tex</scope>
