@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-		${1:Figure}~\ref{${2:fig:}}]]>
+${1:Figure}~\ref{${2:fig:}}]]>
 	</content>
 	<tabTrigger>figure</tabTrigger>
 	<scope>text.tex</scope>

@@ -1,8 +1,8 @@
 <snippet>
-    <content>
+    <content><![CDATA[
 \\begin[${1:author}]{${2:thm}}
-    ${0}
-\\end{$2}
+	${0}
+\\end{$2}]]>
 </content>
     <tabTrigger>thm</tabTrigger>
     <scope>text.tex</scope>

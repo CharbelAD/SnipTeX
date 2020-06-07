@@ -1,9 +1,9 @@
 <snippet>
-    <content>
+    <content><![CDATA[
 \\begin{align${1:ed}}
-    \\label{eq:${2}}
-    ${0}
-\\end{align$1}
+	\\label{eq:${2}}
+	${0}
+\\end{align$1}]]>
 </content>
     <tabTrigger>ali</tabTrigger>
     <scope>text.tex</scope>

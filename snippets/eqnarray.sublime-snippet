@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-    \\begin{eqnarray}
-        ${0}
-    \\end{eqnarray}
+\\begin{eqnarray}
+	${0}
+\\end{eqnarray}
 ]]></content>
     <tabTrigger>lab</tabTrigger>
     <scope>text.tex</scope>

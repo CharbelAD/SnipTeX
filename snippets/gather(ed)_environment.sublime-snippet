@@ -1,8 +1,8 @@
 <snippet>
-    <content>
+    <content><![CDATA[
 \begin{gather${1:ed}}
-    ${0}
-\end{gather$1}
+	${0}
+\end{gather$1}]]>
 </content>
     <tabTrigger>gat</tabTrigger>
     <scope>text.tex</scope>

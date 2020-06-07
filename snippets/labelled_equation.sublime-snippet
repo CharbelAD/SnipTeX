@@ -1,9 +1,9 @@
 <snippet>
-    <content>
+    <content><![CDATA[
 \\begin{equation}
-    \\label{eq:${2}}
+	\\label{eq:${2}}
 ${0}
-\\end{equation}
+\\end{equation}]]>
 </content>
     <tabTrigger>eql</tabTrigger>
     <scope>text.tex</scope>

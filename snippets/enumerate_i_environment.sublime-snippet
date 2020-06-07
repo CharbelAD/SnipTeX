@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-    \\begin{enumerate}[(i)]
-        \\item ${0}
-    \\end{enumerate}
+\\begin{enumerate}[(i)]
+	\\item ${0}
+\\end{enumerate}
 ]]></content>
     <tabTrigger>enumi</tabTrigger>
     <scope>text.tex</scope>
