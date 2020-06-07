@@ -3,7 +3,7 @@
 \part{${1:part name}} % (fold)%
 \label{prt:${1}}
 ${0}
-% part $1 (end)]]>
+%part $1 (end)]]>
     </content>
     <tabTrigger>part</tabTrigger>
     <scope>text.tex</scope>

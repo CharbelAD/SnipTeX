@@ -2,9 +2,7 @@
     <content><![CDATA[
 \\lim_{${1:n \\to \\infty}} ${0}
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>lim</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.tex</scope>
 </snippet>
 
