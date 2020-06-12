@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\\footcite[${1}]{${2}}${0}]]>
-	</content>
-	<tabTrigger>fcite</tabTrigger>
-	<scope>text.tex</scope>
-	<description>\footcite</description>
-</snippet>
