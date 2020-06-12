@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Listing}~\\ref{${2:list}}]]>
+	</content>
+	<tabTrigger>listing</tabTrigger>
+	<scope>text.tex</scope>
+	<description>reference to a listing</description>
+</snippet>
