@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\textit{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>ita</tabTrigger>
+	<scope>text.tex</scope>
+	<description>italic text</description>
+</snippet>

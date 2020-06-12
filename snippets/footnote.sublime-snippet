@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\footnote{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>ft</tabTrigger>
+	<scope>text.tex</scope>
+	<description>footnote</description>
+</snippet>

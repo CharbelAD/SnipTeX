@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\textbf{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>bf</tabTrigger>
+	<scope>text.tex</scope>
+	<description>bold face text</description>
+</snippet>

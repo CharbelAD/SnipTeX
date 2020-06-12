@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\underline{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>under</tabTrigger>
+	<scope>text.tex</scope>
+	<description>underline text</description>
+</snippet>

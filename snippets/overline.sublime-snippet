@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\overline{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>over</tabTrigger>
+	<scope>text.tex</scope>
+	<description>overline text</description>
+</snippet>

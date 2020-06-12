@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\textsuperscript{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>mc</tabTrigger>
+	<scope>text.tex</scope>
+	<description>mathcal</description>
+</snippet>

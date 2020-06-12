@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\textsc{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>sc</tabTrigger>
+	<scope>text.tex</scope>
+	<description>small caps text</description>
+</snippet>

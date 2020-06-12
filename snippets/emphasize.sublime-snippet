@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\emph{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>emp</tabTrigger>
+	<scope>text.tex</scope>
+	<description>emphasize text</description>
+</snippet>

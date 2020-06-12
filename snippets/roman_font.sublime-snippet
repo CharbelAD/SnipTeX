@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\textsc{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>rm</tabTrigger>
+	<scope>text.tex</scope>
+	<description>roman font text</description>
+</snippet>

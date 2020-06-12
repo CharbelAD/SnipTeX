@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\texttt{${1:text}}${0}]]>
+	</content>
+	<tabTrigger>tt</tabTrigger>
+	<scope>text.tex</scope>
+	<description>monospace text</description>
+</snippet>
