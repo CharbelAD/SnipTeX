@@ -6,5 +6,5 @@
 </content>
     <tabTrigger>tab</tabTrigger>
     <scope>text.tex</scope>
-    <description>Tabular (or arbitrary) environment</description>
+    <description>tabular (or arbitrary) environment</description>
 </snippet>
