@@ -17,12 +17,14 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 
 | Tab Trigger | Description |
 | :---------- | :---------- |
+| alert | alert text |
+| alertblock | alertblock environment |
 | ali | no description (yet) |
 | begin | no description (yet) |
+| block | block environment |
 | bf | bold face text |
 | cas | cases environment |
 | center | center environment |
-| center | no description (yet) |
 | cha | no description (yet) |
 | cite | no description (yet) |
 | citea | \citeauthor |
@@ -30,22 +32,29 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | citep | no description (yet) |
 | citet | no description (yet) |
 | citey | \citeyear |
+| col2 | two-column environment |
 | dmo | no description (yet) |
 | desc | description environment |
 | itd | description \item |
 | emp | emphasize text |
+| enq | enquote |
 | enuma | enumerate with arabic numbers |
 | enum | enumerate environment |
 | enumi | enumerate with small roman characters |
 | lab | eqnarray environment |
 | eq | no description (yet) |
+| example | exampleblock environment |
+| fig | figure env (includegraphics) |
 | figure | reference to a figure |
 | fcite | \footcite |
 | ft | footnote |
 | frac | no description (yet) |
+| frame | frame environment |
 | gat | gather(ed) environment |
+| href | no description (yet) |
 | index | no description (yet) |
 | ita | italic text |
+| itd | description \item |
 | it | new list item |
 | item | no description (yet) |
 | ]i | endless new item |
@@ -53,9 +62,18 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | eql | labelled equation environment |
 | lim | no description (yet) |
 | listing | reference to a listing |
+| lr | left right |
+| lra | langle rangle |
+| lr{ | left{ right} |
+| lr| | left| right| |
+| lr( | left( right) |
+| lr[ | left[ right] |
+| lsi | no description (yet) |
+| lst | code listing |
 | mc | mathcal |
 | mf | mathfrak |
 | ms | mathscr |
+| multicol2 | two-column environment with multicol |
 | nc | create a new command |
 | nuc | no description (yet) |
 | ni | no description (yet) |
@@ -69,14 +87,20 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | sc | small caps text |
 | mat | smart matrix environment |
 | spl | split environment |
+| stackrel | \stackrel{}{} |
 | tsub | subscribed test |
 | sum | no description (yet) |
 | tsup | superscripted text |
 | table | reference to a table |
 | tab | tabular (or arbitrary) environment |
 | thm | thm (or arbitrary) environment with optional argument |
+| tikz | figure env (tikzpicture) |
 | tt | monospace text |
 | under | underline text |
 | \ | unnumbered equation |
 | eq* | unnumbered equation environment |
-| up | no description (yet) |
+| sec* | Unnumbered section |
+| ssub* | \subsubsection* |
+| url | no description (yet) |
+| up | \usepackage{} |
+
