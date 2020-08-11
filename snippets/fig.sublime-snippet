@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\\begin{figure}
+\\begin{center}
+	\\includegraphics[scale=${1}]{Figures/${2}}
+\\end{center}
+\\caption{${3}}
+\\label{fig:${4}}
+\\end{figure}
+${0}]]>
+	</content>
+	<tabTrigger>fig</tabTrigger>
+	<scope>text.tex</scope>
+	<description>figure env (includegraphics)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\stackrel{${1:above}}{${2:below}} ${0}]]>
+	</content>
+	<tabTrigger>stackrel</tabTrigger>
+	<scope>text.tex</scope>
+	<description>\stackrel{}{}</description>
+</snippet>

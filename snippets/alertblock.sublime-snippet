@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\begin{alertblock}{${1:title}}
+	${0}
+\\end{alertblock}]]>
+	</content>
+	<tabTrigger>alertblock</tabTrigger>
+	<scope>text.tex</scope>
+	<description>alertblock environment</description>
+</snippet>

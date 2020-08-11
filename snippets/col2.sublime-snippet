@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\\begin{columns}
+	\\begin{column}{0.5\\textwidth}
+		${1}
+	\\end{column}
+	\\begin{column}{0.5\\textwidth}
+		${0}
+	\\end{column}
+\\end{columns}]]>
+	</content>
+	<tabTrigger>col2</tabTrigger>
+	<scope>text.tex</scope>
+	<description>two-column environment</description>
+</snippet>

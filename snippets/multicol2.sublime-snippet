@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\\begin{multicols}{2}
+	${1}
+	\columnbreak
+	${0}
+\\end{multicols}]]>
+	</content>
+	<tabTrigger>multicol2</tabTrigger>
+	<scope>text.tex</scope>
+	<description>two-column environment with multicol</description>
+</snippet>

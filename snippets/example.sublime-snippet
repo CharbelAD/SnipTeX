@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\begin{exampleblock}{${1:title}}
+	${0}
+\\end{exampleblock}]]>
+	</content>
+	<tabTrigger>example</tabTrigger>
+	<scope>text.tex</scope>
+	<description>exampleblock environment</description>
+</snippet>

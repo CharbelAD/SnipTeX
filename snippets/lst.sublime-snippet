@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\begin{listing}[language=${1:language}]
+	${0}
+\\end{listing}]]>
+	</content>
+	<tabTrigger>lst</tabTrigger>
+	<scope>text.tex</scope>
+	<description>code listing</description>
+</snippet>

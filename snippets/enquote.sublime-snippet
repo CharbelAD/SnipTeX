@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\enquote{${1:${text}}} ${0}]]>
+	</content>
+	<tabTrigger>enq</tabTrigger>
+	<scope>text.tex</scope>
+	<description>enquote</description>
+</snippet>

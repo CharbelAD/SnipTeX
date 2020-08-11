@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\section*{${1:section name}}%
+\\label{sec:${2:$1}}
+${0}]]>
+	</content>
+	<tabTrigger>sec*</tabTrigger>
+	<scope>text.tex</scope>
+	<description>Unnumbered section</description>
+</snippet>

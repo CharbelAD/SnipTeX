@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\item[${1:description}] ${0:item}]]>
+	</content>
+	<tabTrigger>itd</tabTrigger>
+	<scope>text.tex</scope>
+	<description>description \item</description>
+</snippet>

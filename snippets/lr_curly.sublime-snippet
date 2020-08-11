@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\left\\{ ${0} \\right\\}]]>
+	</content>
+	<tabTrigger>lr{</tabTrigger>
+	<scope>text.tex</scope>
+	<description>left{ right}</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\lstinline|${1}| ${0}]]>
+	</content>
+	<tabTrigger>lsi</tabTrigger>
+	<scope>text.tex</scope>
+	<description></description>
+</snippet>

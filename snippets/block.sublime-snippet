@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\begin{block}{${1:title}}
+	${0}
+\\end{block}]]>
+	</content>
+	<tabTrigger>block</tabTrigger>
+	<scope>text.tex</scope>
+	<description>block environment</description>
+</snippet>
