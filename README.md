@@ -23,14 +23,15 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | begin | no description (yet) |
 | block | block environment |
 | bf | bold face text |
+| \{ | \{ \} |
 | cas | cases environment |
 | center | center environment |
-| cha | no description (yet) |
-| cite | no description (yet) |
+| cha | \chapter |
+| cite | \cite[]{} |
 | citea | \citeauthor |
-| citen | no description (yet) |
-| citep | no description (yet) |
-| citet | no description (yet) |
+| citen | \citen |
+| citep | \citep |
+| citet | \citet |
 | citey | \citeyear |
 | col2 | two-column environment |
 | dmo | no description (yet) |
@@ -38,29 +39,29 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | itd | description \item |
 | emp | emphasize text |
 | enq | enquote |
-| enuma | enumerate with arabic numbers |
 | enum | enumerate environment |
+| enuma | enumerate with arabic numbers |
 | enumi | enumerate with small roman characters |
-| lab | eqnarray environment |
+| eqnarray | eqnarray environment |
 | eq | no description (yet) |
 | example | exampleblock environment |
-| fig | figure env (includegraphics) |
+| fig | figure environment (includegraphics) |
 | figure | reference to a figure |
-| fcite | \footcite |
-| ft | footnote |
-| frac | no description (yet) |
+| fcite | \footcite[]{} |
+| ft | \footnote |
+| frac | \frac{}{} |
 | frame | frame environment |
 | gat | gather(ed) environment |
 | href | no description (yet) |
-| index | no description (yet) |
+| index | \index |
 | ita | italic text |
 | itd | description \item |
 | it | new list item |
-| item | no description (yet) |
+| item | itemize environment |
 | ]i | endless new item |
-| lab | no description (yet) |
+| lab | \label |
 | eql | labelled equation environment |
-| lim | no description (yet) |
+| lim | \lim_{} |
 | listing | reference to a listing |
 | lr | left right |
 | lra | langle rangle |
@@ -73,34 +74,41 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | mc | mathcal |
 | mf | mathfrak |
 | ms | mathscr |
+| mat | smart matrix environment |
 | multicol2 | two-column environment with multicol |
 | nc | create a new command |
 | nuc | no description (yet) |
-| ni | no description (yet) |
+| ni | \noindent |
 | over | overline text |
 | page | reference to a page |
-| part | part document |
+| par | \paragraph |
+| part | document \part |
 | rm | roman font text |
 | sf | sans serif text |
-| sec | no description (yet) |
+| sec | \section |
 | section | reference to a section |
 | sc | small caps text |
-| mat | smart matrix environment |
 | spl | split environment |
 | stackrel | \stackrel{}{} |
-| tsub | subscribed test |
-| sum | no description (yet) |
+| subfig | subfigure environment |
+| subp | \subparagraph |
+| tsub | subscripted test |
+| sub | \subsection |
+| ssub | \subsubsection |
+| sum | \sum^{}_{} |
 | tsup | superscripted text |
 | table | reference to a table |
 | tab | tabular (or arbitrary) environment |
 | thm | thm (or arbitrary) environment with optional argument |
-| tikz | figure env (tikzpicture) |
+| tikzcd* | tikzcd environment in equation* |
+| tikz | figure environment (tikzpicture) |
+| tikzcd | tikzcd environment in equation |
 | tt | monospace text |
 | under | underline text |
 | \ | unnumbered equation |
 | eq* | unnumbered equation environment |
-| sec* | Unnumbered section |
+| sec* | \section* |
+| sub* | \subsection* |
 | ssub* | \subsubsection* |
 | url | no description (yet) |
 | up | \usepackage{} |
-
