@@ -4,5 +4,5 @@
 ]]></content>
     <tabTrigger>up</tabTrigger>
     <scope>text.tex</scope>
-    <<description>\usepackage{}</description>
+    <description>\usepackage{}</description>
 </snippet>
