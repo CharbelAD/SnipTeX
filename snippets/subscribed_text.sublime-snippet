@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\\textsubscript{${1:text}}${0}]]>
-	</content>
-	<tabTrigger>tsub</tabTrigger>
-	<scope>text.tex</scope>
-	<description>subscribed test</description>
-</snippet>
