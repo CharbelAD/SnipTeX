@@ -4,7 +4,7 @@
 	${0}
 \\end{eqnarray}
 ]]></content>
-    <tabTrigger>lab</tabTrigger>
+    <tabTrigger>eqnarray</tabTrigger>
     <scope>text.tex</scope>
     <description>eqnarray environment</description>
 </snippet>

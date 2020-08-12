@@ -4,4 +4,5 @@
 	</content>
 	<tabTrigger>cite</tabTrigger>
 	<scope>text.tex</scope>
+	<description>\cite[]{}</description>
 </snippet>

@@ -5,4 +5,5 @@
 	<tabTrigger>enq</tabTrigger>
 	<scope>text.tex</scope>
 	<description>enquote</description>
+	<!--Needs the csquote package-->
 </snippet>

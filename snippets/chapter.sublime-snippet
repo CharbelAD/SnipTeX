@@ -6,4 +6,5 @@ ${0}]]>
     </content>
     <tabTrigger>cha</tabTrigger>
     <scope>text.tex</scope>
+    <description>\chapter</description>
 </snippet>

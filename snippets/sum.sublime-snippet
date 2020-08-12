@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>sum</tabTrigger>
     <scope>text.tex</scope>
+    <description>\sum^{}_{}</description>
 </snippet>

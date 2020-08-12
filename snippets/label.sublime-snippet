@@ -4,4 +4,5 @@
 ]]></content>
     <tabTrigger>lab</tabTrigger>
     <scope>text.tex</scope>
+    <description>\label</description>
 </snippet>

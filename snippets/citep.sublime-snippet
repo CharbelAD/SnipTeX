@@ -4,4 +4,5 @@
 	</content>
 	<tabTrigger>citep</tabTrigger>
 	<scope>text.tex</scope>
+	<description>\citep</description>
 </snippet>

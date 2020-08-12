@@ -4,4 +4,5 @@
 	</content>
 	<tabTrigger>index</tabTrigger>
 	<scope>text.tex</scope>
+	<description>\index</description>
 </snippet>

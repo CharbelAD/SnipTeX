@@ -4,5 +4,6 @@
 ]]></content>
     <tabTrigger>lim</tabTrigger>
     <scope>text.tex</scope>
+    <description>\lim_{}</description>
 </snippet>
 

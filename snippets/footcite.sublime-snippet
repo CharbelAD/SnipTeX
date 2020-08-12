@@ -4,5 +4,5 @@
 	</content>
 	<tabTrigger>fcite</tabTrigger>
 	<scope>text.tex</scope>
-	<description>\footcite</description>
+	<description>\footcite[]{}</description>
 </snippet>

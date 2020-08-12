@@ -11,5 +11,5 @@ ${0}]]>
 	</content>
 	<tabTrigger>fig</tabTrigger>
 	<scope>text.tex</scope>
-	<description>figure env (includegraphics)</description>
+	<description>figure environment (includegraphics)</description>
 </snippet>

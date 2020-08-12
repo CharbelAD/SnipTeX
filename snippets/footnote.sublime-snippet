@@ -4,5 +4,5 @@
 	</content>
 	<tabTrigger>ft</tabTrigger>
 	<scope>text.tex</scope>
-	<description>footnote</description>
+	<description>\footnote</description>
 </snippet>
