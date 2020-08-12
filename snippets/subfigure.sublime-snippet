@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\\begin{subfigure}[${1}]{${2:\\textwidth}}
+\\begin{center}
+	${3}
+\\end{center}
+\\caption{${4}}
+\\label{fig:${5}}
+\\end{subfigure}
+${0}]]>
+	</content>
+	<tabTrigger>subfig</tabTrigger>
+	<scope>text.tex</scope>
+	<description>subfigure environment</description>
+</snippet>

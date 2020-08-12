@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\\begin{equation}
+\\begin{tikzcd}
+	${1}
+\\end{tikzcd}
+\\end{equation}
+${0}]]>
+	</content>
+	<tabTrigger>tikzcd</tabTrigger>
+	<scope>text.tex</scope>
+	<description>tikzcd environment in equation</description>
+</snippet>

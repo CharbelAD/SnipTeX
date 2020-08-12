@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\\subsection*{${1:subsection name}}%
+\\label{sub:${2:$1}}
+${0}]]>
+	</content>
+	<tabTrigger>sub*</tabTrigger>
+	<scope>text.tex</scope>
+	<description>\subsection*</description>
+</snippet>
