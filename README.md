@@ -19,8 +19,8 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | :---------- | :---------- |
 | alert | alert text |
 | alertblock | alertblock environment |
-| ali | no description (yet) |
-| begin | no description (yet) |
+| ali | align(ed) environment |
+| begin | \begin{}...\end{} block |
 | block | block environment |
 | bf | bold face text |
 | \{ | \{ \} |
@@ -34,7 +34,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | citet | \citet |
 | citey | \citeyear |
 | col2 | two-column environment |
-| dmo | no description (yet) |
+| dmo | declare math operator |
 | desc | description environment |
 | itd | description \item |
 | emp | emphasize text |
@@ -43,7 +43,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | enuma | enumerate with arabic numbers |
 | enumi | enumerate with small roman characters |
 | eqnarray | eqnarray environment |
-| eq | no description (yet) |
+| eq | equation environment |
 | example | exampleblock environment |
 | fig | figure environment (includegraphics) |
 | figure | reference to a figure |
@@ -52,7 +52,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | frac | \frac{}{} |
 | frame | frame environment |
 | gat | gather(ed) environment |
-| href | no description (yet) |
+| href | \href{}{} |
 | index | \index |
 | ita | italic text |
 | itd | description \item |
@@ -69,7 +69,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | lr| | left| right| |
 | lr( | left( right) |
 | lr[ | left[ right] |
-| lsi | no description (yet) |
+| lsi | \lstinline |
 | lst | code listing |
 | mc | mathcal |
 | mf | mathfrak |
@@ -77,7 +77,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | mat | smart matrix environment |
 | multicol2 | two-column environment with multicol |
 | nc | create a new command |
-| nuc | no description (yet) |
+| nuc | new unicode char |
 | ni | \noindent |
 | over | overline text |
 | page | reference to a page |
@@ -110,5 +110,5 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | sec* | \section* |
 | sub* | \subsection* |
 | ssub* | \subsubsection* |
-| url | no description (yet) |
+| url | \url{} |
 | up | \usepackage{} |

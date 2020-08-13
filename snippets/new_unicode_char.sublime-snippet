@@ -4,4 +4,5 @@
     </content>
     <tabTrigger>nuc</tabTrigger>
     <scope>text.tex</scope>
+    <description>new unicode char</description>
 </snippet>

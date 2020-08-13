@@ -6,4 +6,5 @@
 </content>
     <tabTrigger>begin</tabTrigger>
     <scope>text.tex</scope>
+    <description>\begin{}...\end{} block</description>
 </snippet>

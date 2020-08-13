@@ -4,4 +4,5 @@
 </content>
     <tabTrigger>dmo</tabTrigger>
     <scope>text.tex</scope>
+    <description>declare math operator</description>
 </snippet>

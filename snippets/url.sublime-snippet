@@ -4,4 +4,5 @@
 	</content>
 	<tabTrigger>url</tabTrigger>
 	<scope>text.tex</scope>
+	<description>\url{}</description>
 </snippet>

@@ -6,4 +6,5 @@
 ]]></content>
     <tabTrigger>eq</tabTrigger>
     <scope>text.tex</scope>
+    <description>equation environment</description>
 </snippet>

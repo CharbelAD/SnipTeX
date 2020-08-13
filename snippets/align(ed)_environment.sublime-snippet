@@ -7,4 +7,5 @@
 </content>
     <tabTrigger>ali</tabTrigger>
     <scope>text.tex</scope>
+    <description>align(ed) environment</description>
 </snippet>

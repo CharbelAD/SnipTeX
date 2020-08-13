@@ -4,5 +4,5 @@
 	</content>
 	<tabTrigger>lsi</tabTrigger>
 	<scope>text.tex</scope>
-	<description></description>
+	<description>\lstinline</description>
 </snippet>
