@@ -66,9 +66,9 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | lr | left right |
 | lra | langle rangle |
 | lr{ | left{ right} |
-| lr| | left| right| |
-| lr( | left( right) |
-| lr[ | left[ right] |
+| lr\| | left\| right\| |
+| lr\( | left\( right\) |
+| lr\[ | left\[ right] |
 | lsi | \lstinline |
 | lst | code listing |
 | mc | mathcal |
@@ -95,7 +95,7 @@ I would like to thank [Honza](https://github.com/honza) for letting me do this p
 | tsub | subscripted test |
 | sub | \subsection |
 | ssub | \subsubsection |
-| sum | \sum^{}_{} |
+| sum | \sum^{}\_{} |
 | tsup | superscripted text |
 | table | reference to a table |
 | tab | tabular (or arbitrary) environment |
