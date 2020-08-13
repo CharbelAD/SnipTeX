@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\\left( ${0} \\right)]]>
+\\left${1} ${0} \\right$1]]>
 	</content>
 	<tabTrigger>lr</tabTrigger>
 	<scope>text.tex</scope>
